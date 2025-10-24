@@ -1,6 +1,3 @@
-import calendar
-from datetime import date
-
 def monthly_top_25_books(year=None, month=None):
     """
     Генерирует рейтинг топ-25 книг для заданного месяца.
